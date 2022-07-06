@@ -1,2 +1,2 @@
-This is the start of my Python projects.
+0x00 - Hello World.
 
