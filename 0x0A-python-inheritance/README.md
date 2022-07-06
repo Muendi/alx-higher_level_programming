@@ -8,4 +8,6 @@
 7. Integer Validator
 8. Rectangle
 9. Full rectangle
-10. 
+10. Square #1
+11. Square #2
+12. 
